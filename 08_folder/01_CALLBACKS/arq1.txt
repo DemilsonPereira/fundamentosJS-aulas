@@ -1,0 +1,4 @@
+abc
+abcac
+acsasc
+ascsacs
